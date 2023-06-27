@@ -1,0 +1,41 @@
+
+img {
+    width: 200px;
+    height: 200px;
+    border: solid black 1px;
+    margin: 5px;
+}
+
+.unitCard {
+    background-color: #CD5C5C;
+    border: solid black 1px;
+    margin: 5px;
+    width: 20%;
+}
+
+.unitCard header {
+    background-color: #F19797;
+}
+
+.effectCard {
+    background-color: #3A9EE0;
+    border: solid black 1px;
+    margin: 5px;
+    width: 20%;
+}
+
+.effectCard header{
+    background-color: #85C1E9;
+}
+
+.text {
+    background-color: aliceblue;
+    width: 90%;
+    height: 90%;
+    border: solid black 1px;
+}
+
+header {
+    border-bottom: solid black 1px;
+    margin-top: 0px;
+}
